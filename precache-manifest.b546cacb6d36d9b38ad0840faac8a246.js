@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac1a63f45332381b02048e8ba4a5f56e",
+    "revision": "a55ed64226398c72853006ea8d0d3651",
     "url": "/enaranchimeg0407.github.io/index.html"
   },
   {
-    "revision": "0abbfed405895b8c82d3",
+    "revision": "c4c35e9008239fafb211",
     "url": "/enaranchimeg0407.github.io/static/css/2.65a8c18f.chunk.css"
   },
   {
-    "revision": "ab0e45124189b9bef588",
-    "url": "/enaranchimeg0407.github.io/static/css/main.011b81a4.chunk.css"
+    "revision": "9f34a2b65bea3b21897c",
+    "url": "/enaranchimeg0407.github.io/static/css/main.3c56aa90.chunk.css"
   },
   {
-    "revision": "0abbfed405895b8c82d3",
-    "url": "/enaranchimeg0407.github.io/static/js/2.951d8f1f.chunk.js"
+    "revision": "c4c35e9008239fafb211",
+    "url": "/enaranchimeg0407.github.io/static/js/2.f6db42e4.chunk.js"
   },
   {
     "revision": "d98ecab7398de6a4678f9230a85242ea",
-    "url": "/enaranchimeg0407.github.io/static/js/2.951d8f1f.chunk.js.LICENSE.txt"
+    "url": "/enaranchimeg0407.github.io/static/js/2.f6db42e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ab0e45124189b9bef588",
-    "url": "/enaranchimeg0407.github.io/static/js/main.83ef8934.chunk.js"
+    "revision": "9f34a2b65bea3b21897c",
+    "url": "/enaranchimeg0407.github.io/static/js/main.b4428a3e.chunk.js"
   },
   {
     "revision": "a93b3bdf8abc87e29748",
@@ -92,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/enaranchimeg0407.github.io/static/media/face.bbcbe37b.png"
   },
   {
-    "revision": "20caac44e56a1dea6bff143991397f98",
-    "url": "/enaranchimeg0407.github.io/static/media/facebook.20caac44.svg"
+    "revision": "c509a4c46008514b5a5084d2596c99e4",
+    "url": "/enaranchimeg0407.github.io/static/media/facebook.c509a4c4.svg"
   },
   {
     "revision": "796cb006720054056ed6fbcec99bc4d3",
@@ -112,8 +112,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/enaranchimeg0407.github.io/static/media/geo-v11-latin-regular.5fe51dec.woff"
   },
   {
-    "revision": "a9d6e1e0a4c99a4194a36e2e88d19913",
-    "url": "/enaranchimeg0407.github.io/static/media/geo-v11-latin-regular.a9d6e1e0.svg"
+    "revision": "ae77762ee498debb16911507ccb5d867",
+    "url": "/enaranchimeg0407.github.io/static/media/geo-v11-latin-regular.ae77762e.svg"
   },
   {
     "revision": "f4f0a2f91d5055a2490c960b07f8790f",
@@ -124,8 +124,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/enaranchimeg0407.github.io/static/media/giffinalsign.8a5ee325.gif"
   },
   {
-    "revision": "f4f7d01182f1b7a60bb1fbb722f1437f",
-    "url": "/enaranchimeg0407.github.io/static/media/github.f4f7d011.svg"
+    "revision": "e4f2d6b028d93b8c7988d2132bf13ca2",
+    "url": "/enaranchimeg0407.github.io/static/media/github.e4f2d6b0.svg"
   },
   {
     "revision": "570ca1d2be86492c8332f3075942adcb",
@@ -152,12 +152,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/enaranchimeg0407.github.io/static/media/kubernetes.e1d75c42.svg"
   },
   {
-    "revision": "ec019f89c3ef2e2eb5caef3e7af461f2",
-    "url": "/enaranchimeg0407.github.io/static/media/linkedin.ec019f89.svg"
+    "revision": "14f7b6753cb58692c0da571c41b33210",
+    "url": "/enaranchimeg0407.github.io/static/media/linkedin.14f7b675.svg"
   },
   {
     "revision": "02c60749ae5136e41f85f282d41c21e4",
     "url": "/enaranchimeg0407.github.io/static/media/merriweather-v21-latin-regular.02c60749.eot"
+  },
+  {
+    "revision": "4286ac66d431783eb1c0e67e9cab5a71",
+    "url": "/enaranchimeg0407.github.io/static/media/merriweather-v21-latin-regular.4286ac66.svg"
   },
   {
     "revision": "69f09800f4f6479d06e44eba837df872",
@@ -166,10 +170,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8276fdb72ae8f4714d4e6eba704cc39f",
     "url": "/enaranchimeg0407.github.io/static/media/merriweather-v21-latin-regular.8276fdb7.woff2"
-  },
-  {
-    "revision": "94669602ffe5f3591b48aa8fb14ac180",
-    "url": "/enaranchimeg0407.github.io/static/media/merriweather-v21-latin-regular.94669602.svg"
   },
   {
     "revision": "9d98a5b844642817ab89f7d479689c00",
@@ -192,8 +192,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/enaranchimeg0407.github.io/static/media/montserrat-v14-latin-regular.bc3aa95d.woff2"
   },
   {
-    "revision": "f3fef7e587e6c436df1d7985b2a90ada",
-    "url": "/enaranchimeg0407.github.io/static/media/montserrat-v14-latin-regular.f3fef7e5.svg"
+    "revision": "cf4574fbce791ed7debe1dee7f816283",
+    "url": "/enaranchimeg0407.github.io/static/media/montserrat-v14-latin-regular.cf4574fb.svg"
   },
   {
     "revision": "ab6acfad05b61172f06da284fa50b48c",
@@ -244,8 +244,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/enaranchimeg0407.github.io/static/media/poppins-v9-latin-regular.6eb27505.ttf"
   },
   {
-    "revision": "a2ed588ba986f48bab85d75d51fd80fb",
-    "url": "/enaranchimeg0407.github.io/static/media/poppins-v9-latin-regular.a2ed588b.svg"
+    "revision": "74955fcba4d3cb051de366faff68660b",
+    "url": "/enaranchimeg0407.github.io/static/media/poppins-v9-latin-regular.74955fcb.svg"
   },
   {
     "revision": "0b7616ace77c1e3e734ad89a2caf11ca",
@@ -272,6 +272,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/enaranchimeg0407.github.io/static/media/resumepdf.4497a20d.svg"
   },
   {
+    "revision": "3ae203c62a7ae5684c02d7b3adc3af96",
+    "url": "/enaranchimeg0407.github.io/static/media/roboto-v20-latin-300.3ae203c6.svg"
+  },
+  {
     "revision": "806854d4422d0bd79e0f8c87c329a568",
     "url": "/enaranchimeg0407.github.io/static/media/roboto-v20-latin-300.806854d4.ttf"
   },
@@ -282,10 +286,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bda729dbf749cbb9a8e480fa2deec2e9",
     "url": "/enaranchimeg0407.github.io/static/media/roboto-v20-latin-300.bda729db.eot"
-  },
-  {
-    "revision": "dd0bea1f9a808d633492fa573039ca1d",
-    "url": "/enaranchimeg0407.github.io/static/media/roboto-v20-latin-300.dd0bea1f.svg"
   },
   {
     "revision": "ef7c6637c68f269a882e73bcb57a7f6a",
@@ -300,16 +300,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/enaranchimeg0407.github.io/static/media/roboto-v20-latin-500.260c8072.eot"
   },
   {
+    "revision": "6b235824a45f55c12ecc6fb364b3293c",
+    "url": "/enaranchimeg0407.github.io/static/media/roboto-v20-latin-500.6b235824.svg"
+  },
+  {
     "revision": "87284894879f5b1c229cb49c8ff6decc",
     "url": "/enaranchimeg0407.github.io/static/media/roboto-v20-latin-500.87284894.woff"
   },
   {
     "revision": "8c608256fb0273e3a36e6b603f71f213",
     "url": "/enaranchimeg0407.github.io/static/media/roboto-v20-latin-500.8c608256.ttf"
-  },
-  {
-    "revision": "95204ac95130828753c0ee0ada537c33",
-    "url": "/enaranchimeg0407.github.io/static/media/roboto-v20-latin-500.95204ac9.svg"
   },
   {
     "revision": "2735a3a69b509faf3577afd25bdf552e",
@@ -320,8 +320,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/enaranchimeg0407.github.io/static/media/roboto-v20-latin-700.4570b93a.eot"
   },
   {
-    "revision": "57888be7f3e68a7050452ea3157cf4de",
-    "url": "/enaranchimeg0407.github.io/static/media/roboto-v20-latin-700.57888be7.svg"
+    "revision": "90b12e163d7a549300a7577bbf01c2fe",
+    "url": "/enaranchimeg0407.github.io/static/media/roboto-v20-latin-700.90b12e16.svg"
   },
   {
     "revision": "96559ffb5be917f1ce9f748bf4f34732",
@@ -336,6 +336,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/enaranchimeg0407.github.io/static/media/roboto-v20-latin-regular.329ae1c3.ttf"
   },
   {
+    "revision": "3ce3e2e315625e0955240b145c85c682",
+    "url": "/enaranchimeg0407.github.io/static/media/roboto-v20-latin-regular.3ce3e2e3.svg"
+  },
+  {
     "revision": "479970ffb74f2117317f9d24d9e317fe",
     "url": "/enaranchimeg0407.github.io/static/media/roboto-v20-latin-regular.479970ff.woff2"
   },
@@ -346,10 +350,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "60fa3c0614b8fb2f394fa29944c21540",
     "url": "/enaranchimeg0407.github.io/static/media/roboto-v20-latin-regular.60fa3c06.woff"
-  },
-  {
-    "revision": "8681f434273fd6a267b1a16a035c5f79",
-    "url": "/enaranchimeg0407.github.io/static/media/roboto-v20-latin-regular.8681f434.svg"
   },
   {
     "revision": "13ee0829c9ff54c17395e98957dc8b8b",
@@ -380,19 +380,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/enaranchimeg0407.github.io/static/media/third.39b5c727.png"
   },
   {
-    "revision": "bfb3b141dbbf46194e42c3c6cccde733",
-    "url": "/enaranchimeg0407.github.io/static/media/twitter.bfb3b141.svg"
+    "revision": "a57ea219084451288a1f02aabba16f1b",
+    "url": "/enaranchimeg0407.github.io/static/media/twitter.a57ea219.svg"
   },
   {
-    "revision": "c94834426a6d67e40e67b638d36df140",
-    "url": "/enaranchimeg0407.github.io/static/media/whatsapp.c9483442.svg"
+    "revision": "d89731b4869a0f0b9d69bf86146f8be2",
+    "url": "/enaranchimeg0407.github.io/static/media/whatsapp.d89731b4.svg"
   },
   {
     "revision": "2cbcdcb6e3415ea2d0a0ea422713456e",
     "url": "/enaranchimeg0407.github.io/static/media/wireframe.2cbcdcb6.svg"
   },
   {
-    "revision": "78b499b288a0e1489c38988043fae8eb",
-    "url": "/enaranchimeg0407.github.io/static/media/wp.78b499b2.svg"
+    "revision": "2544dd9edc414b7088dee72c8ae52f2b",
+    "url": "/enaranchimeg0407.github.io/static/media/wp.2544dd9e.svg"
   }
 ]);

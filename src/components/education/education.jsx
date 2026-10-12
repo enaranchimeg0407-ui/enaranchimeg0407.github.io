@@ -45,7 +45,7 @@ const useStyles1 = makeStyles({
       },
       '& h2': {
         textAlign: 'center',
-        fontSize: '25px',
+        fontSize: '16px',
         fontWeight: 'bold'
       },
       '& p': {
@@ -97,7 +97,7 @@ const useStyles = makeStyles({
       },
       '& h2': {
         textAlign: 'center',
-        fontSize: '25px',
+        fontSize: '35px',
         fontWeight: 'bold'
       },
       '& p': {
@@ -171,10 +171,10 @@ const useStyles = makeStyles({
                   />
                   <CardContent>
                   <Typography gutterBottom variant="h2" component="h2">
-                    МОНГОЛ УЛСЫН БОЛОВСРОЛЫН ИХ СУРГУУЛЬ, МЭДЭЭЛЭЛ ЗҮЙН ТЭНХИМ
+                    MONGOLIAN STATE UNIVERSITY OF EDUCATION, DEPARTMENT OF COMPUTER SCIENCE
                   </Typography>
                   <Typography gutterBottom variant="h2" component="h2">
-                   ПРОГРАММ ХАНГАМЖ (2023-2027)
+                   SOFTWARE ENGINEERING (2023–2027)
                   </Typography>
                   
                     <Typography
@@ -183,9 +183,9 @@ const useStyles = makeStyles({
                       
                       component="p"
                     >
-                    ❥ Одоогоор Программ хангамжийн инженерчлэлийн чиглэлээр суралцаж байгаа бөгөөд Өгөгдлийн бүтэц ба алгоритм, Өгөгдлийн сан, Эмбэдэд систем, Үйлдлийн систем, Программ хангамжийн архитектур зэрэг суурь хичээлүүдийг судалж байна.
+                    ❥ Currently pursuing a Bachelor's degree in Software Engineering, taking core coursework in Data Structures & Algorithms, Databases, Embedded Systems, Operating Systems, and Software Architecture.
                     <br/>
-                   ❥ Хиймэл оюун ухаан (AI) болон машин сургалтын чиглэлээр сонирхолтой бөгөөд Deep Learning, Data Science, LLM, RAG зэрэг технологийг судалж, практик төслүүдээр дамжуулан мэдлэг, ур чадвараа хөгжүүлж байна.
+                   ❥ Interested in Artificial Intelligence (AI) and Machine Learning, actively studying technologies such as Deep Learning, Data Science, LLMs, and RAG, while developing skills through hands-on practical projects.
       
                      </Typography>
                   </CardContent>
@@ -207,216 +207,11 @@ const useStyles = makeStyles({
                   </CardActions>
                 </Card>
               </Grid>
-
-              
             </Grid>
-  
-  
-            
           </Div>
-  
-          
         </div>
-  
-       
-      <Header21>My Certificates</Header21>
-      <div
-        
-        style={{
-          position: 'relative',
-          display: 'inline-block',
-          width: '100%'
-        }}
-      >
-        <BgImg3 src={img1} alt="background" />
-        <Div>
-          <Grid container spacing={2} id="cards">
-            <Grid item xs>
-              <Card className={classes1.card}>
-                <CardMedia
-                  component="img"
-                  alt="Coursera"
-                  style={{
-                    width: '100%',
-                    marginLeft: 'auto',
-                    marginRight: 'auto',
-                    marginTop: '1rem'
-                  }}
-                  image={coursera}
-                  title="Coursera"
-                />
-                <CardContent>
-                <Typography gutterBottom variant="h2" component="h2">
-               Data Science
-                  </Typography>
-                  <Typography gutterBottom variant="h2" component="h2">
-                  IBM
-                  </Typography>
-
-                </CardContent>
-
-                <CardActions>
-                  <Button
-                    size="small"
-                    color="primary"
-                    className={classes.button}
-                  >
-                    <a
-                      href="https://www.coursera.org/account/accomplishments/specialization/8FHY9YWMGK3A"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                     View Certificate
-                    </a>
-                  </Button>
-                </CardActions>
-              </Card>
-            </Grid>
-            <Grid item xs>
-              <Card className={classes1.card}>
-                <CardMedia
-                  style={{
-                    width: '100%',
-                    marginLeft: 'auto',
-                    marginRight: 'auto',
-                    marginTop: '1rem'
-                  }}
-                  component="img"
-                  alt="Coursera"
-                  image={coursera}
-                  title="COursera"
-                />
-                <CardContent>
-                  <Typography gutterBottom variant="h2" component="h2">
-                  Deep Learning
-                  </Typography>
-                  <Typography gutterBottom variant="h2" component="h2">
-                  deeplearning.ai
-                  </Typography>
-                 
-                </CardContent>
-                <CardActions>
-                  <Button
-                    size="small"
-                    color="primary"
-                    className={classes.button}
-                  >
-                    <a
-                      href="https://www.coursera.org/account/accomplishments/specialization/6CP69ZBBWUHN"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      View Certificate
-                    </a>
-                  </Button>
-                  
-                </CardActions>
-              </Card>
-            </Grid>
-            <Grid item xs>
-              <Card className={classes1.card}>
-                <CardMedia
-                  
-                  component="img"
-                  alt="Parser"
-                  style={{
-                    width: '80%',
-                    
-                    marginLeft: 'auto',
-                    marginRight: 'auto',
-                    marginTop: '1rem'
-                  }}
-                  image={acadgild}
-                  title="Android App Development"
-                />
-                <CardContent>
-                  <Typography gutterBottom variant="h2" component="h2">
-                    Android App Development
-                  </Typography>
-                  <Typography gutterBottom variant="h2" component="h2">
-                    Acadgild
-                  </Typography>
-                
-                </CardContent>
-
-                <CardActions>
-                  <Button
-                    size="small"
-                    color="primary"
-                
-                    className={classes1.button}
-                  >
-                    <a
-                      href="https://drive.google.com/a/iiitk.ac.in/file/d/1osZk7iN-BcFtahqQipC1OKbFrTF4heU8/view?usp=drivesdk"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                     View Certificate
-                    </a>
-                  </Button>
-                </CardActions>
-              </Card>
-            </Grid>
-            <Grid item xs>
-              <Card className={classes1.card}>
-                <CardMedia
-                  component="img"
-                  alt="Resume"
-                  style={{
-                    width: '44%',
-                    
-                    marginLeft: 'auto',
-                    marginRight: 'auto',
-                    marginTop: '1rem'
-                  }}
-                  image={google}
-                  title="DSC"
-                />
-                <CardContent>
-                  <Typography gutterBottom variant="h2" component="h2">
-                  Developer Student CLub
-                  </Typography>
-                  <Typography gutterBottom variant="h2" component="h2">
-                  Google
-                  </Typography>
-                  
-                </CardContent>
-                <CardActions>
-                  <Button
-                    size="small"
-                    position="absolute"
-                    color="primary"
-                    className={classes.button}
-                  >
-                    <a
-                      href="#"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      View Certificate
-                                          </a>
-                  </Button>
-                </CardActions>
-              </Card>
-            </Grid>
-
-            
-          </Grid>
-
-
-          
-        </Div>
-
-        
-      </div>
-
-
       </Container>
     )
-
-
-
-    
   }
   
   const Div = styled.div`

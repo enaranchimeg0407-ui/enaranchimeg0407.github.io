@@ -7,7 +7,7 @@ import sign from 'assets/images/giffinalsign.gif'
 
 const Brand = () => {
   return (
-    <Link href="https://nischaypandey.github.io/Portfolio/#/">
+    <Link href="https://enaranchimeg0407.github.io/">
       <Image
         src={first}
         style={{

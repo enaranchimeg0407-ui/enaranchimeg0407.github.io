@@ -13,7 +13,7 @@ const Intro = () => {
       <Grid container spacing={3}>
         <Grid item xs={12} sm={7}>
           <Header1>Hello!</Header1>
-          <Header2>I am Naranchimeg</Header2>
+          <Header2>I am Naranchimg</Header2>
         </Grid>
         <Grid
           item
@@ -43,11 +43,6 @@ const Intro = () => {
               <Grid item xs={12}>
                 <Linku to="/education" exact>
                   <SecondButton>Education</SecondButton>
-                </Linku>
-              </Grid>
-              <Grid item xs={12}>
-                <Linku to="/experience" exact>
-                  <ThirdButton>Work Experience</ThirdButton>
                 </Linku>
               </Grid>
               <Grid item xs={12}>
@@ -119,13 +114,13 @@ const ThirdButton = styled(Button)`
     background-color: transparent;
   }
 `
-const FourthButton = styled(Button)`
+const FourthButton = styled(Button)`  
   margin-left: 30%;
-  background-color: ##7442c8;
-  border: 2px solid ##7442c8;
+  background-color: #7442c8;
+  border: 2px solid #7442c8;  
   &:hover {
     box-shadow: 0 6px 18px 0 rgba(0, 0, 0, 0.1);
-    color: ##7442c8;
+    color: #7442c8;
     border-color: transparent;
     background-color: transparent;
   }

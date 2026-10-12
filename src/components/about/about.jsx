@@ -44,83 +44,23 @@ const About = () => {
         <Grid container spacing={0}>
           <Grid item xs={12} sm={6}>
             <Div>
-              <Header>About Me</Header>
-              <MiniTitle>Сайн уу, Намайг Наранчимэг гэдэг.</MiniTitle>
+              <Header>Hello, my name is Naranchimeg.</Header>
               <br />
-              <Parag>Би 22 настай, Программ хангамжийн 4-р курсийн оюутан.</Parag>
+              <Parag>I am a 22-year-old 4th-year Software Engineering student.</Parag>
               <Parag>
-                Компьютерийн ухааны академик суурь мэдлэгийн хүрээнд Өгөгдлийн сангийн програмчлал, 
-                Эмбэдэд систем, Үйлдлийн системийн онол болон 
-                Программ хангамжийн төслийн менежментийн чиглэлээр гүнзгийрүүлэн судалсан. 
+                With a strong foundation in computer science, I have delved deep into areas such as database programming, embedded systems, operating systems theory, and software project management.
               </Parag>
               <br />
               <Parag>
-               Бие даан болон судалгааны төслүүд дээр C++ (ООП дизайн), 
-               ESP32/Arduino сууртай IoT төхөөрөмжүүд, Three.js & WebXR ашигласан 3D виртуал орчин болон 
-               Python (NLP, Машин сургалт) дээр суурилсан системүүдийг туршин хөгжүүлсэн.
+               Through self-directed projects and research work, I have gained hands-on experience developing C++ applications (OOP design), ESP32/Arduino-based IoT devices, 3D virtual environments using Three.js & WebXR, and Python-based systems for Natural Language Processing (NLP) and Machine Learning.
               </Parag>
               <br />
-              <Parag>
-                Өгөгдөлтэй ажиллах болон технологийн орчинд тасралтгүй суралцаж өсөн дэвших нь миний гол зорилго юм.
+              <Parag>My main goal is to continuously learn, grow, and advance within data-driven and technology-oriented environments.
               </Parag>
-              <br />
-              <br />
-              <MiniTitle1>
-                Холбогдох мэдээлэл:
-              </MiniTitle1>
-              <br />
-              <ul>
-                <List>
-                  <EmailIcon className={classes.iconSiz} />
-                  enaranchimeg0407@gmail.com
-                </List>
-                <List>
-                  <PhoneIcon className={classes.iconSiz} />
-                  +(976) 80681168
-                </List>
-                <List>
-                  <PersonPinCircleIcon className={classes.iconSiz} />
-                  Баянзүрх дүүрэг, Улаанбаатар, Монгол
-                </List>
-              </ul>
-              <br />
-              <br />
             </Div>
           </Grid>
           <Grid item xs={12} sm={6}>
-            <Img
-              src={aboutme}
-              alt="PortfolioPic"
-              title="It's Me"
-            />
-          </Grid>
-          <Grid item xs={12}>
-            <div>
-              <MiniTitle2>Get in touch using the web :</MiniTitle2>
-              <br />
-              <ul>
-                <List1>
-                  <a
-                    href="https://www.facebook.com/share/19tBMBkHw3/?mibextid=wwXIfr"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <FacebookIcon className={classes.iconSiz1} />
-                    Facebook
-                  </a>
-                </List1>
-                <List1>
-                  <a
-                    href="https://www.instagram.com/nar_ka__?stkn=Y2V6dTNzcHplOWky&utm_source=qr"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <InstagramIcon className={classes.iconSiz1} />
-                    Instagram
-                  </a>
-                </List1>                                                    
-              </ul>
-            </div>
+            <Img src={aboutme} alt="aboutme" />
           </Grid>
         </Grid>
       </div>
@@ -129,7 +69,7 @@ const About = () => {
 }
 
 const Parag = styled.p`
-  font-size: 17px;
+  font-size: 22px;
   text-align: justify;
   text-justify: inter-word;
 
@@ -144,7 +84,7 @@ const List = styled.li`
   padding: 5px;
   margin: 10px;
   color: rgb(30, 51, 51);
-  font-size: 18px;
+  font-size: 20px;
   display: inline-block;
   & :hover,
   :hover,
@@ -153,7 +93,7 @@ const List = styled.li`
   }
   a {
     text-decoration: none;
-    color: rgb(30, 51, 51);
+    color: rgb(30, 51, 51); 
   }
 
   @media only screen and (min-width: 100px) and (max-width: 320px) {
